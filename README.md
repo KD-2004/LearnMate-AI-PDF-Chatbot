@@ -32,3 +32,4 @@ An advanced desktop application that transforms your PDFs into an interactive le
    ollama serve
    ollama pull llama3
 ![WhatsApp Image 2025-05-27 at 04 13 50_4da36b6b](https://github.com/user-attachments/assets/af16be5c-cd72-4ef5-ab03-4dcc38b39b8f)
+![WhatsApp Image 2025-05-27 at 04 13 50_fef862bf](https://github.com/user-attachments/assets/ca08f589-e2dd-47c3-9668-c2b08c1abb95)
