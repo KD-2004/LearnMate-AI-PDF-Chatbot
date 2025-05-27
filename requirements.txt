@@ -1,0 +1,7 @@
+tk
+requests
+PyMuPDF
+Pillow
+edge-tts
+speechrecognition
+pyaudio
