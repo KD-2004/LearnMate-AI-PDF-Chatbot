@@ -5,3 +5,4 @@ Pillow
 edge-tts
 speechrecognition
 pyaudio
+ollama
